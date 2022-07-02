@@ -1,2 +1,7 @@
-# wyvern-dao-proposal-template
-Wyvern DAO proposal template &amp; proposal creation guide
+Hi there! You can run:
+
+```bash
+node proposal.js
+```
+
+to create a proposal using the interactive tool.
